@@ -1,0 +1,16 @@
+C:\Users\nikit\Desktop\SkillBox\Project_7\bin\Debug\net6.0\Project_7.exe
+C:\Users\nikit\Desktop\SkillBox\Project_7\bin\Debug\net6.0\Information_Employees.txt
+C:\Users\nikit\Desktop\SkillBox\Project_7\bin\Debug\net6.0\Project_7.deps.json
+C:\Users\nikit\Desktop\SkillBox\Project_7\bin\Debug\net6.0\Project_7.runtimeconfig.json
+C:\Users\nikit\Desktop\SkillBox\Project_7\bin\Debug\net6.0\Project_7.dll
+C:\Users\nikit\Desktop\SkillBox\Project_7\bin\Debug\net6.0\Project_7.pdb
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.AssemblyInfo.cs
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.dll
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\refint\Project_7.dll
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.pdb
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\Project_7.genruntimeconfig.cache
+C:\Users\nikit\Desktop\SkillBox\Project_7\obj\Debug\net6.0\ref\Project_7.dll
