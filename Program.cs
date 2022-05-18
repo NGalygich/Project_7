@@ -2,6 +2,7 @@
 
 class Program{
     static public void Main(){
+        int i = 0;
         string path = @"Information_Employees.txt";
         List<Worker> workers = new List<Worker>();
         using (StreamReader readFile = new StreamReader(path))
@@ -20,19 +21,20 @@ class Program{
                 workers.Add(worker);
             }
         }
-        //Menu();
-        /*
-        Worker[] w = new Worker[4];
-        for(int i=0;i<4;i++){
-            w[i] = new Worker();
+        Menu();
+        using (StreamWriter sw = new StreamWriter(path, true)){
+            i++;
+            sw.Write($"{workers[i].Id}#");
+            sw.Write($"{workers[i].Date.ToString("dd/MM/yyyy HH:mm")}#");
+            sw.Write($"{workers[i].Fullname}#");
+            sw.Write($"{workers[i].Age}#");
+            sw.Write($"{workers[i].Height}#");
+            sw.Write($"{workers[i].Birthday.ToString("dd/MM/yyyy")}#");
+            sw.WriteLine($"{workers[i].Birthplace}");
         }
-        w[0].age = 22;
-        */
-       //Worker w = new Worker();
-       //w.Print()
     }
     static public void Menu(){
-
+        
     }
 
 }
