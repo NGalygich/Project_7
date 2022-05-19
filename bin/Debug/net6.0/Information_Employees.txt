@@ -1,3 +1,4 @@
-1#18.05.2022 03:27#Ivanov Ivan Ivanovich#29#180#31.12.1993#ct.Moscow
-2#18.05.2022 03:31#Stepanov Stepan Stepanych#69#124#19.01.1953#ct.Irkutsk
-3#18.05.2022 03:32#Pupkov Albert Pupkovich#32#222#04.04.1990#ct.Dno
+1#19.05.2022 07:13#Baranov Viktor Sergeevich#26#167#01.01.1996#ct.Omsk
+2#19.05.2022 07:14#Romanov Roman Romanovich#28#167#23.03.1994#ct.Novgorod
+3#19.05.2022 07:03#Novikov Dmitriy Dmitrievich#25#178#01.01.1997#ct.Moscow
+4#19.05.2022 06:52#Galyga Nikita Aleksandrovich#26#185#03.05.1996#ct.Norilsk
